@@ -1,0 +1,14 @@
+.navbar{
+    justify-content: flex-end;
+    display:flex;
+    gap: 10px;
+    background-color: #f55050;
+
+}
+.navbar a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:hover{
+    color: rgb(0, 255, 115);
+}
